@@ -1,0 +1,29 @@
+ * {
+  margin: 0;
+  padding: 0;
+}
+ a{
+   text-decoration: none;
+   color: inherit;
+ }
+ header .logo{
+  float: left;
+ }
+ header .gnb{
+  float: right;
+ }
+ ul, li {
+  list-style: none;
+ }
+ p{
+  color: rgb(30, 0, 255); 
+  font-size: 40px;
+}
+y{
+  color: crimson;
+  font-size: 40px;
+}
+q1{
+  color: red;
+  font-size: 50px;
+}

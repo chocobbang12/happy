@@ -1,0 +1,19 @@
+ul, li {
+    list-style: none;
+   }
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+p1{
+    color: rgba(123, 255, 0, 0.747); 
+    font-size: 50px;
+}

@@ -1,0 +1,14 @@
+iframe{
+    text-align: center;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+ul, li {
+    list-style: none;
+}
+a{
+    font-size: 10;
+    color: red;
+}

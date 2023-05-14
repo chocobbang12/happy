@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+sitemap: https://clinquant-kitsune-61c422.netlify.app/sitemap.xml
